@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-website-v2/static/css/main.dbb64ff2.chunk.css",
+    "main.js": "/personal-website-v2/static/js/main.de169bee.chunk.js",
+    "main.js.map": "/personal-website-v2/static/js/main.de169bee.chunk.js.map",
+    "runtime-main.js": "/personal-website-v2/static/js/runtime-main.a364450f.js",
+    "runtime-main.js.map": "/personal-website-v2/static/js/runtime-main.a364450f.js.map",
+    "static/js/2.ef70b99f.chunk.js": "/personal-website-v2/static/js/2.ef70b99f.chunk.js",
+    "static/js/2.ef70b99f.chunk.js.map": "/personal-website-v2/static/js/2.ef70b99f.chunk.js.map",
+    "static/js/3.a5c3df24.chunk.js": "/personal-website-v2/static/js/3.a5c3df24.chunk.js",
+    "static/js/3.a5c3df24.chunk.js.map": "/personal-website-v2/static/js/3.a5c3df24.chunk.js.map",
+    "index.html": "/personal-website-v2/index.html",
+    "static/css/main.dbb64ff2.chunk.css.map": "/personal-website-v2/static/css/main.dbb64ff2.chunk.css.map",
+    "static/js/2.ef70b99f.chunk.js.LICENSE.txt": "/personal-website-v2/static/js/2.ef70b99f.chunk.js.LICENSE.txt",
+    "static/media/Resume.69ee9f42.pdf": "/personal-website-v2/static/media/Resume.69ee9f42.pdf",
+    "static/media/grad.bf79e884.JPG": "/personal-website-v2/static/media/grad.bf79e884.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a364450f.js",
+    "static/js/2.ef70b99f.chunk.js",
+    "static/css/main.dbb64ff2.chunk.css",
+    "static/js/main.de169bee.chunk.js"
+  ]
+}
